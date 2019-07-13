@@ -15,7 +15,7 @@ def load_library (file_path)
     library_hash['get_meaning'][value[1]] = key
   end
 
-  new_hash
+  library_hash
 
 end
 
